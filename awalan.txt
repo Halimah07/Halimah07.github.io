@@ -1,0 +1,42 @@
+<html>
+	<head>
+		<title>::: Membuat Garis Horisontal :::</title>
+	</head>
+	<title>::: Latihan Membuat Link Ke Dokumen Lain :::</title>
+</head>
+	<body bgcolor=#C0C0C0>
+		<font size=5 Face=rocwell color=black>Selamat Datang di SMA NEGERI 1 CERIA</font>
+		<hr size=4 width=430 align=left color="MediumSeaGreen">
+		<h1><center>SELALU CERIA SEPANJANG MASA!!</h1>
+		<hr size=4 align=center noshade color="MediumSeaGreen"></hr>
+<title>::: Documents :::</title>
+</head>
+<body>
+<b><font size=4 Face=rocwell color="black">
+<MARQUEE WIDTH="100%" bgcolor=#808080>WELCOME TO SMA NEGERI 1 CERIA</MARQUEE>
+
+<font face=rocwell size=4 color="MediumSeaGreen">
+<hr>
+| <a href=awalan.html>Home</a> 
+| <a href=visi_misi.html>Visi & Misi</a>
+| <a href=prolan.html>Program Keunggulan</a> 
+| <a href=fasilitas.html>Fasilitas</a> 
+| <a href=ekstra.html>Ekstra Kurikuler</a> |
+<hr>
+
+<b><font size=4 Face=rocwell color=#B22222>
+<h3><center>Tentang Kami</h3>
+<b><font size=4 Face=rocwell color=black align=left>
+<p>SMA Negeri 1 Ceria adalah sebuah sekolah menengah atas negeri yang terletak di Jl. Pendidikan No. 123, Ceria, Kabupaten Ceria, Provinsi Indah.
+Sekolah ini dikenal dengan komitmennya untuk memberikan pendidikan berkualitas serta fokus pada pengembangan karakter siswa dalam lingkungan yang peduli dan kondusif.
+
+<hr><p><font face=rocwell size=4 color=#B22222>
+<h3><center>Tujuan & Falsafah</h3>
+<b><font size=4 Face=rocwell color=black align=left>
+SMA Negeri 1 Ceria memiliki tujuan untuk menghasilkan lulusan yang tidak hanya berprestasi dalam bidang akademik, tetapi juga memiliki karakter yang kuat, tanggung jawab sosial, dan kesadaran lingkungan. Sekolah ini mempersiapkan siswa untuk menghadapi tantangan era globalisasi dengan bekal pengetahuan, keterampilan, dan nilai-nilai luhur
+
+<p>
+<img src="sman.jpg" alt="document">
+<hspace=20 vspace=10 width=500 height=500></p>
+
+</html>
